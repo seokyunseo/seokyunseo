@@ -3,3 +3,4 @@
 > 
 # 1학기 활동내용 정리
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lifecream&repo=2022-Ctrl-C-Activities)](https://github.com/Lifecream/2022-Ctrl-C-Activities)
+
